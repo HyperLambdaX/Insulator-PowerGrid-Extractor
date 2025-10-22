@@ -15,11 +15,13 @@ An automated insulator extraction algorithm from UAV LiDAR point cloud data for 
 
 ## Overview
 
-This project is an implementation of the algorithm described in the paper:
+This project is an **unofficial implementation** of the algorithm described in the paper:
 
 **"Insulator Extraction from UAV LiDAR Point Cloud Based on Multi-Type and Multi-Scale Feature Histogram"**
 *Chen, M., Li, J., Pan, J., Ji, C., & Ma, W. (2024). Drones, 8(6), 241.*
 DOI: [10.3390/drones8060241](https://doi.org/10.3390/drones8060241)
+
+> **Note**: This is an independent implementation and is not affiliated with or endorsed by the original paper authors or their institutions.
 
 The algorithm automatically extracts insulator segments from 3D point cloud data captured by UAV-mounted LiDAR sensors using multi-type and multi-scale feature histogram analysis.
 
