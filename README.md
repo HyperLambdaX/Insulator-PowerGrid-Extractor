@@ -7,7 +7,6 @@ An automated insulator extraction algorithm from UAV LiDAR point cloud data for 
 - [Overview](#overview)
 - [Requirements](#requirements)
 - [Installation](#installation)
-- [Quick Start](#quick-start)
 - [Data Format](#data-format)
 - [Usage](#usage)
 - [Algorithm Pipeline](#algorithm-pipeline)
@@ -47,19 +46,6 @@ cd Insulator-PowerGrid-Extractor
 
 # Install dependencies
 pip install -r requirements.txt
-```
-
-## Quick Start
-
-```bash
-# Process a single tower with visualization
-python main.py --data-path ./data --tower-id 001 --visualize
-
-# Process all towers and save results
-python main.py --data-path ./data --plot --output-dir ./output
-
-# Batch process without visualization (faster)
-python main.py --data-path ./data --no-visualize
 ```
 
 ## Data Format
