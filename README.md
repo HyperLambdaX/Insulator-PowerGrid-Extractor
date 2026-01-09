@@ -41,7 +41,7 @@ shapely>=2.0.0
 
 ```bash
 # Clone the repository
-git clone https://github.com/CubicZen/Insulator-PowerGrid-Extractor.git
+git clone https://github.com/HyperLambdaX/Insulator-PowerGrid-Extractor.git
 cd Insulator-PowerGrid-Extractor
 
 # Install dependencies
